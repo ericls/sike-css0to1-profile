@@ -1,5 +1,5 @@
 body {
-	background-image: url(/img/background.jpg);
+	background-image: url(../img/background.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: center;
@@ -13,7 +13,7 @@ body {
 .main-header {
 	margin-top: 150px;
 	padding: 1px;
-	background: url(/img/banner.jpg);
+	background: url(../img/banner.jpg);
 	text-align: center;
 }
 
